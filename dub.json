@@ -1,0 +1,16 @@
+{
+	"name": "trace2html",
+	"description": "Converts DMD profiler log to human-friendly html.",
+	"copyright": "Copyright © 2014, Christopher Nicholson-Sauls",
+	"authors": [
+        "Christopher Nicholson-Sauls"
+    ],
+    "license": "MIT",
+
+    "targetType": "executable",
+    "targetName": "trace2html",
+    "targetPath": "bin",
+    "buildRequirements": [
+        "disallowDeprecations"
+    ]
+}
